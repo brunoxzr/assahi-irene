@@ -346,7 +346,8 @@
         <div class="h-[2px] w-24 mx-auto bg-gradient-to-r from-transparent via-[#db9423] to-transparent mb-12"></div>
 
         <!-- Grade -->
-        <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-10">
+        <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-8">
+
         <!-- Card -->
         <a href="https://wa.me/554398708313" target="_blank" class="group bg-white rounded-2xl overflow-hidden shadow-[0_4px_20px_rgba(0,0,0,0.08)] border border-[#db9423]/20 hover:scale-[1.02] transition-transform duration-500">
             <div class="h-48 bg-[#f9f7f3] overflow-hidden">
