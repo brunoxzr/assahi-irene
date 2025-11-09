@@ -1100,90 +1100,90 @@
 
 
     <!-- ================================= -->
-<!-- LOCALIZAÇÃO E HORÁRIOS DE FUNCIONAMENTO -->
-<!-- ================================= -->
-<section id="localizacao" class="relative py-24 bg-gradient-to-b from-[#faf8f4] via-[#f7f4ef] to-[#f0ede9] overflow-hidden">
+    <!-- LOCALIZAÇÃO E HORÁRIOS DE FUNCIONAMENTO -->
+    <!-- ================================= -->
+    <section id="localizacao" class="relative py-24 bg-gradient-to-b from-[#faf8f4] via-[#f7f4ef] to-[#f0ede9] overflow-hidden">
 
-  <!-- Textura japonesa Asanoha -->
-  <div class="absolute inset-0 opacity-[0.05] pointer-events-none">
-    <svg viewBox="0 0 200 200" class="w-full h-full" preserveAspectRatio="xMidYMid slice">
-      <defs>
-        <pattern id="asanoha-loc" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-          <path d="M20 0 L40 20 L20 40 L0 20 Z" stroke="#db9423" stroke-width="0.4" fill="none"/>
-        </pattern>
-      </defs>
-      <rect width="100%" height="100%" fill="url(#asanoha-loc)" />
-    </svg>
-  </div>
+    <!-- Textura japonesa Asanoha -->
+    <div class="absolute inset-0 opacity-[0.05] pointer-events-none">
+        <svg viewBox="0 0 200 200" class="w-full h-full" preserveAspectRatio="xMidYMid slice">
+        <defs>
+            <pattern id="asanoha-loc" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+            <path d="M20 0 L40 20 L20 40 L0 20 Z" stroke="#db9423" stroke-width="0.4" fill="none"/>
+            </pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#asanoha-loc)" />
+        </svg>
+    </div>
 
-  <div class="relative max-w-7xl mx-auto px-6 z-10">
-    <!-- Título -->
-    <h2 class="text-4xl md:text-5xl font-bold text-center mb-4 text-[#1d1d23]" style="font-family:'Cormorant Garamond', serif;">
-      <a href="https://maps.app.goo.gl/xYDqo4Wb5dCk5yZj6" target="_blank" class="hover:text-[#db9423] transition-colors">
-        Localização e Horários de Funcionamento
-      </a>
-    </h2>
-    <div class="h-[2px] w-24 mx-auto bg-gradient-to-r from-transparent via-[#db9423] to-transparent mb-10"></div>
-
-    <p class="text-center text-gray-700 text-lg mb-10 font-light">
-      • Clique abaixo para acessar horários:
-    </p>
-
-    <!-- Conteúdo -->
-    <div class="grid md:grid-cols-2 gap-10 items-center">
-      <!-- Imagem -->
-      <div class="relative rounded-2xl overflow-hidden shadow-[0_5px_30px_rgba(0,0,0,0.1)] border border-[#db9423]/20">
-        <a href="https://maps.app.goo.gl/xYDqo4Wb5dCk5yZj6" target="_blank">
-          <img src="https://espacoassahi.com.br/wp-content/uploads/2025/08/Imagem-do-WhatsApp-de-2025-08-14-as-17.15.03_ece253ca.jpg"
-               alt="Localização Assahi" class="w-full h-[380px] object-cover hover:scale-105 transition-transform duration-700 ease-out">
+    <div class="relative max-w-7xl mx-auto px-6 z-10">
+        <!-- Título -->
+        <h2 class="text-4xl md:text-5xl font-bold text-center mb-4 text-[#1d1d23]" style="font-family:'Cormorant Garamond', serif;">
+        <a href="https://maps.app.goo.gl/xYDqo4Wb5dCk5yZj6" target="_blank" class="hover:text-[#db9423] transition-colors">
+            Localização e Horários de Funcionamento
         </a>
-        <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
-        <p class="absolute bottom-3 left-1/2 -translate-x-1/2 text-center text-white text-sm italic px-4">
-          Ficamos a apenas 400m do <strong>Castelo Japonês</strong>, principal ponto turístico de Assaí - PR.
+        </h2>
+        <div class="h-[2px] w-24 mx-auto bg-gradient-to-r from-transparent via-[#db9423] to-transparent mb-10"></div>
+
+        <p class="text-center text-gray-700 text-lg mb-10 font-light">
+        • Clique abaixo para acessar horários:
         </p>
-      </div>
 
-      <!-- Mapa -->
-      <div class="rounded-2xl overflow-hidden shadow-[0_5px_30px_rgba(0,0,0,0.08)] border border-[#db9423]/20">
-        <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3352.4154922544367!2d-50.84931882497405!3d-23.37436565474839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94eb175a35dbcc55%3A0x9e98ce4638ff5606!2sAssahi%20Gastronomia%20Oriental%20e%20Eventos!5e1!3m2!1spt-BR!2sbr!4v1755890034503!5m2!1spt-BR!2sbr"
-          width="100%" height="380" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-      </div>
+        <!-- Conteúdo -->
+        <div class="grid md:grid-cols-2 gap-10 items-center">
+        <!-- Imagem -->
+        <div class="relative rounded-2xl overflow-hidden shadow-[0_5px_30px_rgba(0,0,0,0.1)] border border-[#db9423]/20">
+            <a href="https://maps.app.goo.gl/xYDqo4Wb5dCk5yZj6" target="_blank">
+            <img src="https://espacoassahi.com.br/wp-content/uploads/2025/08/Imagem-do-WhatsApp-de-2025-08-14-as-17.15.03_ece253ca.jpg"
+                alt="Localização Assahi" class="w-full h-[380px] object-cover hover:scale-105 transition-transform duration-700 ease-out">
+            </a>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
+            <p class="absolute bottom-3 left-1/2 -translate-x-1/2 text-center text-white text-sm italic px-4">
+            Ficamos a apenas 400m do <strong>Castelo Japonês</strong>, principal ponto turístico de Assaí - PR.
+            </p>
+        </div>
+
+        <!-- Mapa -->
+        <div class="rounded-2xl overflow-hidden shadow-[0_5px_30px_rgba(0,0,0,0.08)] border border-[#db9423]/20">
+            <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3352.4154922544367!2d-50.84931882497405!3d-23.37436565474839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94eb175a35dbcc55%3A0x9e98ce4638ff5606!2sAssahi%20Gastronomia%20Oriental%20e%20Eventos!5e1!3m2!1spt-BR!2sbr!4v1755890034503!5m2!1spt-BR!2sbr"
+            width="100%" height="380" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+        </div>
     </div>
-  </div>
 
-  <!-- Divisor -->
-  <div class="absolute bottom-0 left-0 w-full">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 10" preserveAspectRatio="none">
-      <path d="M350,10L340,0h20L350,10z" fill="#db9423" opacity="0.8"/>
-    </svg>
-  </div>
-</section>
-
-
-<!-- ================================= -->
-<!-- CONHEÇA UM PEDACINHO DO JAPÃO NO BRASIL -->
-<!-- ================================= -->
-<section id="japao" class="relative bg-[#0f0f0f] text-white py-24 px-6 overflow-hidden">
-  <!-- Luz de fundo -->
-  <div class="absolute inset-0 bg-gradient-to-b from-[#db9423]/20 via-transparent to-black/60"></div>
-
-  <div class="relative max-w-5xl mx-auto text-center z-10">
-    <h2 class="text-4xl md:text-5xl font-bold mb-8 tracking-wide" style="font-family:'Cormorant Garamond', serif;">
-      Conheça um pedacinho do Japão no Brasil
-    </h2>
-
-    <!-- Vídeo -->
-    <div class="relative rounded-2xl overflow-hidden shadow-[0_8px_40px_rgba(0,0,0,0.5)] border border-[#db9423]/30 max-w-4xl mx-auto">
-      <iframe class="w-full h-[420px]"
-              src="https://www.youtube.com/embed/bZuJQ1c1cCQ?autoplay=1&mute=1&loop=1&playlist=bZuJQ1c1cCQ&controls=1"
-              title="Assahi - Conheça um pedacinho do Japão no Brasil"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen>
-      </iframe>
+    <!-- Divisor -->
+    <div class="absolute bottom-0 left-0 w-full">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 10" preserveAspectRatio="none">
+        <path d="M350,10L340,0h20L350,10z" fill="#db9423" opacity="0.8"/>
+        </svg>
     </div>
-  </div>
-</section>
+    </section>
+
+
+    <!-- ================================= -->
+    <!-- CONHEÇA UM PEDACINHO DO JAPÃO NO BRASIL -->
+    <!-- ================================= -->
+    <section id="japao" class="relative bg-[#0f0f0f] text-white py-24 px-6 overflow-hidden">
+    <!-- Luz de fundo -->
+    <div class="absolute inset-0 bg-gradient-to-b from-[#db9423]/20 via-transparent to-black/60"></div>
+
+    <div class="relative max-w-5xl mx-auto text-center z-10">
+        <h2 class="text-4xl md:text-5xl font-bold mb-8 tracking-wide" style="font-family:'Cormorant Garamond', serif;">
+        Conheça um pedacinho do Japão no Brasil
+        </h2>
+
+        <!-- Vídeo -->
+        <div class="relative rounded-2xl overflow-hidden shadow-[0_8px_40px_rgba(0,0,0,0.5)] border border-[#db9423]/30 max-w-4xl mx-auto">
+        <iframe class="w-full h-[420px]"
+                src="https://www.youtube.com/embed/bZuJQ1c1cCQ?autoplay=1&mute=1&loop=1&playlist=bZuJQ1c1cCQ&controls=1"
+                title="Assahi - Conheça um pedacinho do Japão no Brasil"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+        </iframe>
+        </div>
+    </div>
+    </section>
 
 
 
